@@ -1,0 +1,5 @@
+# 项目排除路径
+/.venv/
+/cmake-build-debug/
+/实训总结/
+/day*/report/
